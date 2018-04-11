@@ -1,3 +1,3 @@
 # .github.io
-landing page
-sss
+Hello I'm Tomasz
+Senior Developer
